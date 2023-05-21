@@ -1,1 +1,1 @@
-![Twitter URL](https://img.shields.io/twitter/url?style=social)
+![GitHub followers](https://img.shields.io/github/followers/NamiduruMert?color=black&label=NamiduruMert&logo=github&style=social)
