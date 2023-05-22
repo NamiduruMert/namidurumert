@@ -39,8 +39,6 @@
 
 Hello there! I am an engineer trying to add meaning to my life in many different ways. My biggest passion is music, which is my inspiration. I love dreaming and experimenting with musical rhythms.
 
-Bir yaratıcı düşünürüm ve yeni fikirler üretmeyi, sıradışı çözümler bulmayı severim. Teknoloji ve mühendislik beni heyecanlandıran bir alan ve öğrenme süreci. Sınırları zorlamayı ve kendimi geliştirmeyi seviyorum.
-
 I can say that I am a creative thinker. I love to come up with new ideas and produce unconventional solutions. I think technology and engineering are exciting. At the same time, I can say that they take a huge part of my learning process. I like to try the impossible and improve myself in the process.
 
 I love spending time with my family. It makes me very happy to support each other, share our ideas and collect good memories.
