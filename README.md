@@ -14,13 +14,13 @@
         alt="Linkedin Profile"
         src="https://img.shields.io/twitter/url?color=gray&label=Make%20a%20Connection&logo=linkedin&logoColor=cyan&style=plastic&url=https%3A%2F%2Fhelp.twitter.com%2Ftr%2Fusing-twitter%2Ftweet-and-moment-url"
     /></a>
-    <a target="_blank" href="https://tr.linkedin.com/in/mert-namiduru">
+    <a target="_blank" href="https://www.instagram.com/mertnamiduru/">
       <img
         height="34px"
         alt="Instagram Profile"
         src="https://img.shields.io/twitter/follow/shields_io?color=gray&label=Instagram&logo=instagram&logoColor=red&style=for-the-badge"
     /></a>
-    <a target="_blank" href="https://tr.linkedin.com/in/mert-namiduru">
+    <a target="_blank" href="https://twitter.com/MertNamiduru">
       <img
         height="34px"
         alt="Twitter Profile"
