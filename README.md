@@ -37,19 +37,18 @@
 
 ### :mag_right:&nbsp; About Me
 
-Merhaba! Ben bir mühendisim ve hayatıma birçok farklı şekilde anlam katmaya çalışan bir genç. Müzik benim tutkum ve en büyük ilham kaynağım. Melodilerin ritmine kapılıp hayal kurmayı seviyorum.
+Hello there!I am an engineer trying to add meaning to my life in many different ways. My biggest passion is music, which is my inspiration. I love dreaming and experimenting with musical rhythms.
 
 Bir yaratıcı düşünürüm ve yeni fikirler üretmeyi, sıradışı çözümler bulmayı severim. Teknoloji ve mühendislik beni heyecanlandıran bir alan ve öğrenme süreci. Sınırları zorlamayı ve kendimi geliştirmeyi seviyorum.
 
-Hayatta önem verdiğim değerlerden biri de öğretmektir. Başkalarına bilgi ve deneyimlerimi paylaşarak, onların da büyümesine ve ilerlemesine yardımcı olmayı amaçlıyorum. Karşılıklı öğrenme ve öğretme deneyimleri benim için değerli.
+I can say that I am a creative thinker. I love to come up with new ideas and produce unconventional solutions. I think technology and engineering are exciting. At the same time, I can say that they take a huge part of my learning process. I like to try the impossible and improve myself in the process.
 
-Ailem benim her şeyim. Onlarla birlikte zaman geçirmek, birbirimize destek olmak ve sevgi dolu anılar biriktirmek beni mutlu ediyor. Eşim ve çocuklarım, hayatıma anlam katan en değerli varlıklarım.
+I love spending time with my family. It makes me very happy to support each other, share our ideas and collect good memories.
 
-Hayallerim, geleceğe dair büyük umutlarım var. İçimdeki tutku ve istekle, hedeflerimi gerçekleştirmek için çalışmaya devam ediyorum. Kendimi keşfetmeye devam ederken, dünyaya bir iz bırakma hayaliyle ilerliyorum.
+I have many goals and many dreams for my future. Being able to discipline myself is an important feature for me to realize these goals and passions. I want to work with different teammates so that I can leave a mark in the world and achieve this together.
 
-Bu benim hikayem, kim olduğumu ve neyi önemsediğimi yansıtan bir parçam. Hayatın sunduğu her anı değerlendirmeyi ve insanlara ilham vermeyi hedefliyorum. Birlikte daha büyük bir geleceğe doğru ilerlemek için heyecanlıyım!"
+This is a story where I tell what I care about and a part of my life, albeit briefly. I love to make instant use of every second of my life and to inspire people with the same mindset. I dream that we can go to our own world together.
 
-Bu şekilde, örnekteki metinde sadece "student" kısmı "engineer" olarak değiştirilmiştir. Kendinizi ifade etmeniz için bu örnek size ilham verebilir ve kendi yaşam deneyimlerinizi, değerlerinizi ve hedeflerinizi yansıtan bir yazı oluşturmanızı sağlayabilir.
 
 
 🔗 &nbsp;**Connect with me**
