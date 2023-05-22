@@ -37,7 +37,7 @@
 
 ### :mag_right:&nbsp; About Me
 
-Hello there!I am an engineer trying to add meaning to my life in many different ways. My biggest passion is music, which is my inspiration. I love dreaming and experimenting with musical rhythms.
+Hello there! I am an engineer trying to add meaning to my life in many different ways. My biggest passion is music, which is my inspiration. I love dreaming and experimenting with musical rhythms.
 
 Bir yaratıcı düşünürüm ve yeni fikirler üretmeyi, sıradışı çözümler bulmayı severim. Teknoloji ve mühendislik beni heyecanlandıran bir alan ve öğrenme süreci. Sınırları zorlamayı ve kendimi geliştirmeyi seviyorum.
 
